@@ -20,6 +20,7 @@ This is a paragraph
 2. Item 2
 3. Item 3
 4. Item 3a
+
 ## Table
 | Command | Description |
 | -: | - |
